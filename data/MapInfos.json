@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Ponyville Tavern (Begin)","order":1,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":1,"expanded":true,"name":"Ponyville Tavern (Begin)","order":1,"parentId":0,"scrollX":655.2,"scrollY":358.4},
 {"id":2,"expanded":false,"name":"Ponyville 1","order":3,"parentId":0,"scrollX":655.2,"scrollY":358.4},
 {"id":3,"expanded":true,"name":"Ponyville Tavern","order":2,"parentId":1,"scrollX":655.2,"scrollY":358.4}
 ]
